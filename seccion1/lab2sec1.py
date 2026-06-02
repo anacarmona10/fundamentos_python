@@ -1,0 +1,21 @@
+print("La Witsi Witsi Araña\nsubió a su telaraña.")
+print()
+print("Vino la lluvia\ny se la llevó.")
+print()
+print("La Witsi Witsi Araña" , "subió" , "a su telaraña.")
+print()
+print("Mi nombre es", "Python.")
+print("Monty Python.")
+print()
+print("Mi nombre es", "Python.", end=" ")
+print("Monty Python.")
+print()
+print("Mi", "nombre", "es", "Monty", "Python.", sep="-")
+print()
+print("Mi", "nombre", "es", sep="_", end="*")
+print("Monty", "Python.", sep="*", end="*\n")
+
+
+
+print("programming","Essentials","", end="*", sep="***")
+print("in","Python", sep="...", end="\n")
